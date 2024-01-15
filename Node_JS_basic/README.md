@@ -1,4 +1,4 @@
-# 0x12. NodeJS Basics
+<h1 align="center"> NodeJS Basics </h1>
 :open_file_folder: Specializations - Web Stack programming ― Back-end  
 :bust_in_silhouette: by Johann Kerbrat, Engineering Manager at Uber Works  
 :copyright: **[Holberton School](https://www.holbertonschool.com/)**  
@@ -39,6 +39,3 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * [x] 6. Create a small HTTP server using Express
 * [ ] 7. Create a more complex HTTP server using Express
 * [ ] 8. Organize a complex HTTP server using Express
-
-## Software engineer
-[Javier Andrés Garzón Patarroyo](https://www.javierandresgp.com)
